@@ -21,11 +21,13 @@ h1 {
 #search-form > input {
   flex-grow: 1;
   padding: 25px;
+  cursor:pointer;
 }
 #search-form > button {
   width: 200px;
   background-color: black;
   color: white;
+  cursor:pointer;
 }
 .button-container {
   display: flex;
@@ -38,6 +40,7 @@ h1 {
   height: 65px;
   background-color: black;
   color: white;
+  cursor:pointer;
 }
 table,
 th,
